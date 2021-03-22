@@ -54,6 +54,7 @@ PSP
 | ------ | ------ |
 | Redump PSP ISO Part 1 | [Link](https://archive.org/download/redump.psp) |
 | Redump PSP ISO Part 2 | [Link](https://archive.org/download/redump.psp.p2) |
+| Ghostware PSN Collection | [Link](https://archive.org/details/PSNCollectionByGhostware) |
 
 - |**Google Drive: ALL**|**Links**|
 | ------ | ------ |
